@@ -1,4 +1,4 @@
-trading strategy doesnt work for now   :(   
+trading strategy doesnt work for now OPTIONAL   :(   
 however the ml models and etl work perfectly   :)
 trading_app.py is the streamlit
 newetl.py and ML_MODEL_ATTEMPT.py (XGboost) are not polished and have been changed abit to make it work with the trading app
